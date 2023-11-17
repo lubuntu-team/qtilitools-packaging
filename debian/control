@@ -1,0 +1,18 @@
+Source: qtilitools
+Section: libdevel
+Priority: optional
+Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+Uploaders: Simon Quigley <tsimonq2@ubuntu.com>
+Rules-Requires-Root: no
+Build-Depends: cmake, debhelper-compat (= 13)
+Standards-Version: 4.6.2
+Homepage: https://jpnaude.github.io/Qtilities/
+Vcs-Browser: https://git.lubuntu.me/Lubuntu/qtilitools-packaging
+Vcs-Git: https://git.lubuntu.me/Lubuntu/qtilitools-packaging.git
+
+Package: libqtilitools-dev
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Qtilitools library package
+ Qtilitools is the base utility for Qtilities, a set of lightweight Qt-based
+ applications. It is comparable to lxqt-build-tools.
