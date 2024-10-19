@@ -5,7 +5,7 @@ Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
 Uploaders: Simon Quigley <tsimonq2@ubuntu.com>
 Rules-Requires-Root: no
 Build-Depends: cmake, debhelper-compat (= 13)
-Standards-Version: 4.6.2
+Standards-Version: 4.7.0
 Homepage: https://jpnaude.github.io/Qtilities/
 Vcs-Browser: https://git.lubuntu.me/Lubuntu/qtilitools-packaging
 Vcs-Git: https://git.lubuntu.me/Lubuntu/qtilitools-packaging.git

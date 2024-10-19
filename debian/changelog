@@ -2,6 +2,7 @@ qtilitools (0.1.2+git20240107-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream snapshot.
   * Remove patch applied upstream.
+  * Bump Standards-Version to 4.7.0, no changes needed.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 19 Oct 2024 15:01:05 -0500
 
