@@ -1,6 +1,7 @@
 qtilitools (0.1.2+git20240107-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream snapshot.
+  * Remove patch applied upstream.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 19 Oct 2024 15:01:05 -0500
 
