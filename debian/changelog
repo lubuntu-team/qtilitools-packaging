@@ -1,3 +1,9 @@
+qtilitools (0.1.2+git20240107-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream snapshot.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 19 Oct 2024 15:01:05 -0500
+
 qtilitools (0.1.1~git20231009-0ubuntu1) noble; urgency=medium
 
   * Initial release (LP: #2043824).
