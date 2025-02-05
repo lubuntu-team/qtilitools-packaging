@@ -1,4 +1,4 @@
-qtilitools (0.1.2~really0.1.2-0ubuntu1) plucky; urgency=medium
+qtilitools (0.1.2+really0.1.2-0ubuntu1) plucky; urgency=medium
 
   * Upstream now offers releases, so dropping git.
   * Added watch file.
